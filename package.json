@@ -1,0 +1,17 @@
+{
+  "name": "omni_bot",
+  "version": "1.0.0",
+  "description": "bot that can act based on voice input",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "grago",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "0.8.0",
+    "@google-cloud/speech": "4.10.2",
+    "discord.js": "12.5.1",
+    "ytdl-core": "4.11.0"
+  }
+}
