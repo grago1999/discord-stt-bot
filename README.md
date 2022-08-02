@@ -2,4 +2,6 @@
 
 Bot that can join and listen to Discord voice channel. It listens for specific key words and acts upon them. For example, saying league mutes the user.
 
-To run, you'll need a config.json file, along with a Google Cloud speech API token.
+To run the bot, you'll need a config.json file, along with a Google Cloud speech API token.
+
+Once you've added it to the server, type !start sentry and !end sentry to start and end listening.
