@@ -1,6 +1,6 @@
 # discord-stt-bot
 
-Discord speech to text bot that can join and listen to a voice channel. It listens for specific key words and acts upon them. For example, saying league mutes the user.
+Discord speech to text bot that can join and listen to a voice channel. It listens for specific key words and acts upon them. For example, saying league mutes the user (I still enjoy league of legends).
 
 To run the bot, you'll need a config.json file, along with a Google Cloud speech API token.
 
